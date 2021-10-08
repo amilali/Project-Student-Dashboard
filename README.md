@@ -7,10 +7,14 @@ About Project:
 - Under Testing Not Fully Working
 - Easy To Access
 - Light and dark themes Available
-- Styled with Tailwind , Bootstrap CSS
 - Various components like test, assignments etc.
+
+Tech Used In This Project:
+- Styled with Tailwind , Bootstrap CSS
 - Server (Apache)
 - DBMS MySQL (Under Construction)
+- UI/UX
+- 
 
 Hardware Required:
 
