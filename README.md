@@ -1,4 +1,4 @@
-Student Dashboard
+Student Dashboard Mini Project
 Created By: Amil Ali
 
 Ready for Production.
