@@ -3,11 +3,18 @@ Created By: Amil Ali
 
 Ready for Production.
 
+About Project:
+- Under Testing Not Fully Working
+- Easy To Access
+- Light and dark themes Available
+- Styled with Tailwind , Bootstrap CSS
+- Various components like test, assignments etc.
+- Server (Apache)
+- DBMS MySQL (Under Construction)
 
-- 🦮 Thoroughly accessible
-- 🌗 Light and dark themes
-- 💅 Styled with Tailwind CSS
-- 🧩 Various components like test, assignments
+Hardware Required:
+
+-Any OS which support these Browsers like, Chrome , Firefox fully Responsive in Mobile Also.
 
 Features Screeenshorts:
 
